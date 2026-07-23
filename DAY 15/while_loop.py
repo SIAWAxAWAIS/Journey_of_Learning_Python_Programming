@@ -1,8 +1,8 @@
-# i =0
-# while(i<=3):
-#     print(i)
-#     i= i+1
-# print("Done")
+i =0
+while(i<=3):
+    print(i)
+    i= i+1
+print("Done")
 
 
 # i =0
@@ -24,9 +24,10 @@
 
 # emulation of do while loop
 
-while True:
-    i =input("Enter a Negative Number to Break the loop:")
-    number = int(i)
+# while True:
+#     i =input("Enter a Negative Number to Break the loop:")
+#     number = int(i)
 
-    if number<=0:
-        break
+#     if number<=0:
+#         break
+
