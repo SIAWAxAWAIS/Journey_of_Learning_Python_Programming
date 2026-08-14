@@ -1,0 +1,3 @@
+import equation
+
+equation.welcome()
